@@ -4,6 +4,8 @@
 [![rank](https://make.fun/badge/news-image-20261118/tiVan0/makefun-news-image-20261118/rank.svg)](https://make.fun/bounty/news-image-20261118)
 [![reward](https://make.fun/badge/news-image-20261118/tiVan0/makefun-news-image-20261118/reward.svg)](https://make.fun/bounty/news-image-20261118)
 
+Resubmitted after the first round-1 grade run failed (run_completes); entry code unchanged.
+
 A one-page newspaper front page for Wednesday 18 November 2026: 3 lead
 stories, 10 cards, 30 more stories, a dotted world map with every story
 pinned, and a BY THE NUMBERS strip. 43 stories, 6 continents, one day.
